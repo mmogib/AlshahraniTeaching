@@ -4,8 +4,9 @@ Add here global page variables to use throughout your website.
 +++
 author = "Mohammed Alshahrani"
 mintoclevel = 2
-prepath     = get(ENV, "PREVIEW_FRANKLIN_PREPATH", "AlshahraniWebsite") 
-website_url = get(ENV, "PREVIEW_FRANKLIN_WEBSITE_URL", "mmogib.github.io") 
+prepath = "AlshahraniWebsite"
+<!-- prepath     = get(ENV, "PREVIEW_FRANKLIN_PREPATH", "AlshahraniWebsite")  -->
+<!-- website_url = get(ENV, "PREVIEW_FRANKLIN_WEBSITE_URL", "mmogib.github.io")  -->
 
 
 # Add here files or directories that should be ignored by Franklin, otherwise
