@@ -1,0 +1,4 @@
+Sitemap: https://mmogib.github.io/AlshahraniTeaching.jl/sitemap.xml
+
+User-agent: *
+Disallow:
